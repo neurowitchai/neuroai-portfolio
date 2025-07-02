@@ -21,11 +21,6 @@ Welcome to my NeuroAI portfolio — a space where neuroscience meets artificial 
 - [Portfolio Website](https://sooolai.com) *(coming soon)*  
 - [Email me](mailto:neurowitch.ai@gmail.com)
 
----
-
-> ⚡ Powered by curiosity and matcha lattes.
-
-
 
 ## 🛡️ Licensing
 
@@ -35,3 +30,10 @@ This repo uses a split license approach:
 - ✨ **Creative content (in `/content`, `/docs`, blog drafts, TikTok scripts)** is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
 
 For commercial or special use, feel free to [email me](mailto:neurowitch.ai@gmail.com).
+
+---
+
+> ⚡ Powered by curiosity and matcha lattes.
+
+
+
